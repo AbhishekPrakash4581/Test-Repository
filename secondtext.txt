@@ -1,1 +1,1 @@
-Hello Everyonde
+Hello Everyone Git is one of the best version control system. Mercurial has been overthrowned by Git
